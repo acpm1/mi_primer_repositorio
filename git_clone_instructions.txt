@@ -1,0 +1,17 @@
+1. primero necesita crear un nuevo token de acceso en github y configurarlo de la siguiente manera en el equipo 
+https://stackoverflow.com/questions/68775869/support-for-password-authentication-was-removed-please-use-a-personal-access-to , 
+
+
+My Account > Settings > Developer settings > Personal access tokens GENERATE NEW TOKEN
+git remote set-url origin https://<token>@github.com/<username>/<repo>
+
+
+
+
+2. luego seguir estas instrucciones https://kbroman.org/github_tutorial/pages/init.html "Connect it to github" para conectar git en el equipo con github
+
+
+
+
+
+
