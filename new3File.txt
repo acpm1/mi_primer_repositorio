@@ -1,1 +1,1 @@
-new3 file second commit, just this file is modified 
+new3 file second commit, just this file is modified two times
